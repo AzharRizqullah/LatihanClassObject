@@ -1,0 +1,2 @@
+# LatihanClassObject
+Latihan Class TAXI
